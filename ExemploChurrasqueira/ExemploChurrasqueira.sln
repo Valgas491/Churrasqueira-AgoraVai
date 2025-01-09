@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploChurrasqueira.Module", "ExemploChurrasqueira.Module\ExemploChurrasqueira.Module.csproj", "{63CF403A-B343-4A25-8634-A239E4E87FC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploChurrasqueira.Blazor.Server", "ExemploChurrasqueira.Blazor.Server\ExemploChurrasqueira.Blazor.Server.csproj", "{54937265-81B6-4B83-8984-444CA210FE51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63CF403A-B343-4A25-8634-A239E4E87FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CF403A-B343-4A25-8634-A239E4E87FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CF403A-B343-4A25-8634-A239E4E87FC2}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{63CF403A-B343-4A25-8634-A239E4E87FC2}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{63CF403A-B343-4A25-8634-A239E4E87FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CF403A-B343-4A25-8634-A239E4E87FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54937265-81B6-4B83-8984-444CA210FE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54937265-81B6-4B83-8984-444CA210FE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54937265-81B6-4B83-8984-444CA210FE51}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{54937265-81B6-4B83-8984-444CA210FE51}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{54937265-81B6-4B83-8984-444CA210FE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54937265-81B6-4B83-8984-444CA210FE51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

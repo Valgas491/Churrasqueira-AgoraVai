@@ -1,0 +1,12 @@
+C:\Users\estagio.analise\Documents\ExemploChurrasqueira\ExemploChurrasqueira.Module\bin\Debug\net8.0\ExemploChurrasqueira.Module.deps.json
+C:\Users\estagio.analise\Documents\ExemploChurrasqueira\ExemploChurrasqueira.Module\bin\Debug\net8.0\ExemploChurrasqueira.Module.dll
+C:\Users\estagio.analise\Documents\ExemploChurrasqueira\ExemploChurrasqueira.Module\bin\Debug\net8.0\ExemploChurrasqueira.Module.pdb
+C:\Users\estagio.analise\Documents\ExemploChurrasqueira\ExemploChurrasqueira.Module\obj\Debug\net8.0\ExemploChurrasqueira.Module.csproj.AssemblyReference.cache
+C:\Users\estagio.analise\Documents\ExemploChurrasqueira\ExemploChurrasqueira.Module\obj\Debug\net8.0\ExemploChurrasqueira.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagio.analise\Documents\ExemploChurrasqueira\ExemploChurrasqueira.Module\obj\Debug\net8.0\ExemploChurrasqueira.Module.AssemblyInfoInputs.cache
+C:\Users\estagio.analise\Documents\ExemploChurrasqueira\ExemploChurrasqueira.Module\obj\Debug\net8.0\ExemploChurrasqueira.Module.AssemblyInfo.cs
+C:\Users\estagio.analise\Documents\ExemploChurrasqueira\ExemploChurrasqueira.Module\obj\Debug\net8.0\ExemploChurrasqueira.Module.csproj.CoreCompileInputs.cache
+C:\Users\estagio.analise\Documents\ExemploChurrasqueira\ExemploChurrasqueira.Module\obj\Debug\net8.0\ExemploChurrasqueira.Module.dll
+C:\Users\estagio.analise\Documents\ExemploChurrasqueira\ExemploChurrasqueira.Module\obj\Debug\net8.0\refint\ExemploChurrasqueira.Module.dll
+C:\Users\estagio.analise\Documents\ExemploChurrasqueira\ExemploChurrasqueira.Module\obj\Debug\net8.0\ExemploChurrasqueira.Module.pdb
+C:\Users\estagio.analise\Documents\ExemploChurrasqueira\ExemploChurrasqueira.Module\obj\Debug\net8.0\ref\ExemploChurrasqueira.Module.dll
